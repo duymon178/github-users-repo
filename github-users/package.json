@@ -1,0 +1,19 @@
+{
+  "name": "github-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node app.js"
+  },
+  "type": "module",
+  "author": "Duy Tran",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^9.17.1",
+    "twilio": "^3.84.1"
+  }
+}

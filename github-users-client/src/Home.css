@@ -1,0 +1,13 @@
+.Total {
+  margin-top: 2rem;
+}
+
+.LikeBtn {
+  cursor: pointer;
+}
+
+.Pagination {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
